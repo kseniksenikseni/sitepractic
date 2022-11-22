@@ -68,7 +68,7 @@ ul{
 
 }
 .main1_wall{
-    background-image: url(./img/Rectangle\ 8.png);
+    background-image: url(/img/Rectangle\ 8.png);
     background-size: cover;
     margin-top: 480px;
     height: 220px;
@@ -118,7 +118,7 @@ ul{
 
     }
 .news1_block2{
-    background-image: url(./img/Rectangle\ 10.png);
+    background-image: url(/img/Rectangle\ 10.png);
     background-size: 100%;
     width: 700px;
 }
@@ -223,7 +223,7 @@ footer{
         }
         .main1_img{
             position: relative;
-            background-image: url(./img/image\ 1\ \(1\).png);
+            background-image: url(/img/image\ 1\ \(1\).png);
             background-repeat: no-repeat;
             background-size: 100%;
             width: 500px;
